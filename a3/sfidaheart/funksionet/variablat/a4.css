@@ -1,0 +1,20 @@
+/* variabla globale */
+
+
+:root{
+    --ngjyrakryesore: white;
+    --ngjyraprapavijes: grey;
+    --trashesiaShkronjave: 500;
+    --madhesiaShkronjave: 50px;
+}
+body{
+    background-color: var(--ngjyraprapavijes);
+}
+h1{
+    color: var(--ngjyrakryesore);
+}
+p{
+    color: var(--ngjyrakryesore);
+    font-weight: var(--trashesiaShkronjave);
+    font-size: var(--madhesiaShkronjave);
+}
